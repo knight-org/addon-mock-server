@@ -1,0 +1,28 @@
+{
+  "name": "@beisen/addon-mock-server",
+  "version": "0.0.1",
+  "description": "",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/knight-org/addon-mock-server.git"
+  },
+  "devDependencies": {
+    "babel-core": "^6.26.3",
+    "del": "^3.0.0",
+    "gulp": "^3.9.1",
+    "gulp-babel": "^7.0.1",
+    "babel-plugin-add-module-exports": "^0.2.1",
+    "babel-plugin-transform-react-jsx": "^6.24.1",
+    "babel-preset-env": "^1.7.0"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/knight-org/addon-mock-server/issues"
+  },
+  "homepage": "https://github.com/knight-org/addon-mock-server#readme"
+}
